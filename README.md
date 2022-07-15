@@ -1,7 +1,7 @@
 # PocketMine-MP Plugins by SkyNetWork on Poggit
 | Plugins | State | API | Version | Downloads | Download Tutal | Date | Authors |
 | :-----: | :---: | :-: | :-----: | :-------: | :------------: | :--: | :-----: |
-| [BuildBattle]() | [![State]()]() | [![API]()] | 4.0.0 | [![Downloads]()] | [![Downloads Total]()] | 0/0/2022 | --- |
+| [BuildBattle]() | [![State]()]() | [![API]()] | 4.0.0 | [![Downloads]()] | [![Downloads Total]()] | --/--/-- | --- |
 # 💻 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pizza3909g&hide=contribs,prs)
 # 📘Languages
