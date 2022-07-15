@@ -1,4 +1,4 @@
-# PocketMine Plugins by SkyNetWork on Poggit
+# PocketMine Plugins by Pizza3909G on Poggit
 | Plugins | State | API | Version | Downloads | Download Tutal | Date | Authors |
 | :-----: | :---: | :-: | :-----: | :-------: | :------------: | :--: | :-----: |
 | [BuildBattle]() | [![State]()]() | [![API]()] | --- | [![Downloads]()] | [![Downloads Total]()] | 0/0/2022 | --- |
