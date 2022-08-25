@@ -1,6 +1,6 @@
 <h2 align="center">Pizza3909G Profile's</h2>
 
-### 📋 Studying And Learning
+### 📋 Studying And Learning:
     ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
     
     
