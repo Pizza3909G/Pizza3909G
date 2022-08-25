@@ -2,6 +2,7 @@
 | Plugins | State | API | Version | Downloads | Download Tutal | Date | Authors |
 | :-----: | :---: | :-: | :-----: | :-------: | :------------: | :--: | :-----: |
 | [BuildBattle]() | [![State]()]() | [![API]()] | 4.0.0 | [![Downloads]()] | [![Downloads Total]()] | --/--/-- | --- |
+<hr>
 # 💻 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pizza3909g&hide=contribs,prs)
 # 📘Languages
