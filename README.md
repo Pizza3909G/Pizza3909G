@@ -2,8 +2,9 @@
 
 ### 📋 Studying And Learning:
     ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
-    
-    
+
+<hr>
+
 # PocketMine-MP Plugins by SkyNetWork on Poggit
 
 | Plugins | State | API | Version | Downloads | Download Tutal | Date | Authors |
