@@ -30,6 +30,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </div>
 <h2 align="center"><b> 📜 All the projects </b></h2>
-| A | B |
+| Command | Description |
 | --- | --- |
+| help | Displays all setup commands |
+| done | Is used to exit setup mode |
+| slots `<slots>` | Sets arena slots |
+| level `<levelName>` | Sets arena game level |
+| spawn `<spawnNum.>` | Sets arena spawn position |
+| joinsign | Update joinsign |
+| enable | Enable the arena |
+| savelevel | Saves level to 'levelName.zip' |
 
