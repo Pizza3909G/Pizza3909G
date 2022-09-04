@@ -30,11 +30,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </div>
 <h2 align="center"><b> 📜 All the projects </b></h2>
-<div>
+<div align="center">
 
-| A | B |
-| --- | --- |
-| C | D |
+| Name | Description | Version | API | Download | Support | Authors | Release Date |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BuildBattle | Creative minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- |
+| SkyWars | SkyWars minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- |
 
 </div>
 
