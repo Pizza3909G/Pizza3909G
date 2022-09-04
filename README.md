@@ -45,7 +45,9 @@
   <summary>View more!</summary>
     <h1 align="center">My information</h1>
     <br><br>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
   </a>
   </details>
 </h4>
