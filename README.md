@@ -45,7 +45,7 @@
   <summary>View more!</summary>
     <h1 align="center">My information</h1>
     <br><br>
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pizza3909G&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
+    ![Pizza3909G GitHub stats](https://github-readme-stats.vercel.app/api?username=pizza3909g&show_icons=true&theme=radical)
   </a>
   </details>
 </h4>
