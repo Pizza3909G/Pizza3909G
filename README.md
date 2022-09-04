@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3><b> 📋 Programming Languages </b></h3>
+<h3 align="center"><b> 📋 Programming Languages </b></h3>
 
 
 <details>
