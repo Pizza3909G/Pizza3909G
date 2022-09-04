@@ -30,10 +30,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </div>
 <h2 align="center"><b> 📜 All the projects </b></h2>
+<div>
 
-| Version | Zip Download | Phar Download |
-| --- | --- | --- |
-| 1.1.1 | [GitHub](https://github.com/GamakCZ/SkyWars/archive/1.1.1.zip) | [Poggit](https://poggit.pmmp.io/p/SkyWars/1.1.1) |
-| 1.1.0 | [GitHub](https://github.com/GamakCZ/SkyWars/archive/1.1.0.zip) | [GitHub](https://github.com/GamakCZ/SkyWars/releases/download/1.1.0/SkyWars_v1.1.0.phar) |
-| 1.0.0 | [GitHub](https://github.com/GamakCZ/SkyWars/archive/1.0.0.zip) | [GitHub](https://github.com/GamakCZ/SkyWars/releases/download/1.0.0/SkyWars_v1.0.0.phar) |
+| A | B |
+| --- | --- |
+| C | D |
+
+</div>
 
