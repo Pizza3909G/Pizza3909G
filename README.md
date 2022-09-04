@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </div>
 <h2 align="center"><b> 📜 All the projects </b></h2>
-<div align="center"><ball my projects</b><br><b>You can download it.</b></div><br>
+<div align="center"><b>all my projects</b><br><b>You can download it.</b></div><br>
 <div align="center">
 
 | Name | Description | Version | API | Download | Support | Authors | Release Date |
