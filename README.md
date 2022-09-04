@@ -1,5 +1,5 @@
 <h2 align="center"><b>Welcome to My Profile's :3</b></h2>
-<div align="center"><b>My name is pizza and this is my github profile</b><br><b>I'm 18 years old and I've been dev  for 4 years, see more about me below :3</b></div><br>
+<div align="center"><b>My name is pizza and this is my github profile</b><br><b>I'm 17 years old and I've been dev  for 4 years, see more about me below :3</b></div><br>
 <a><div align="center"><img src="https://lanyard.cnrad.dev/api/864830171635122198"></div></a>
 <hr>
 <h3 align="center"><b> 📋 Programming Languages </b></h3>
@@ -17,7 +17,12 @@
 </div>
 <hr>
 <h3 align="center"><b> ⚙️ Frameworks </b></h3>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</div>
 <hr>
 <h3 align="center"><b> 💻 Learning </b></h3>
 <div align="center">
