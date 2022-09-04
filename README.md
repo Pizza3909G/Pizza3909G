@@ -44,4 +44,5 @@
   <details>
   <summary>View more!</summary>
   </details>
+  <h1 align="center">My information</h1> 
 </h4>
