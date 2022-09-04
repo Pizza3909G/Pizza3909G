@@ -29,3 +29,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </div>
+<h2 align="center"><b> 📜 All the projects </b></h2>
+<div align="center">
+  | A |
+  | --- |
+</div>
+
