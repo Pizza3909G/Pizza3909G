@@ -4,6 +4,8 @@
   <div align="center"><img src="https://lanyard.cnrad.dev/api/864830171635122198"></div>
 </a>
 
+<hr>
+
 <details>
   <summary>Click Here!</summary>
 </details>
