@@ -31,7 +31,8 @@
 </div>
 <h2 align="center"><b> 📜 All the projects </b></h2>
 <div align="center">
-  | A |
-  | --- |
+  | A | B |
+  | --- | --- |
+  | C | D |
 </div>
 
