@@ -3,4 +3,5 @@
 <a><div align="center"><img src="https://lanyard.cnrad.dev/api/864830171635122198"></div></a>
 <hr>
 <h3 align="center"><b> 📋 Programming Languages </b></h3>
-<div align="center><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></div>
+<div align="center><b>Html, CSS3, JS, TS, Python3, Lua, SQL, Java, PHP, C</b></div>
+<hr>
