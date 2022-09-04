@@ -43,6 +43,6 @@
 <h4 align="center">
   <details>
   <summary>View more!</summary>
+    <h1 align="center">My information</h1> 
   </details>
-  <h1 align="center">My information</h1> 
 </h4>
