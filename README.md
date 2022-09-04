@@ -6,7 +6,7 @@
 
 <hr>
 
-### 📋 Programming Languages
+<h3><b> 📋 Programming Languages </b></h3>
 
 
 <details>
