@@ -36,7 +36,6 @@
 | Name | Description | Version | API | Download | Support | Authors | Release Date | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BuildBattle | Creative minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- | Disenable |
-| SkyWars | SkyWars minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- | Disenable |
 
 </div>
 <hr>
@@ -47,8 +46,6 @@
     <br><br>
 
 ![Pizza3909G's GitHub stats](https://github-readme-stats.vercel.app/api?username=pizza3909g&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza3909g&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
   </a>
   </details>
