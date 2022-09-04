@@ -33,10 +33,10 @@
 <div align="center"><b>all my projects</b><br><b size="12px">You can download it.</b></div><br>
 <div align="center">
 
-| Name | Description | Version | API | Download | Support | Authors | Release Date |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| BuildBattle | Creative minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- |
-| SkyWars | SkyWars minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- |
+| Name | Description | Version | API | Download | Support | Authors | Release Date | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BuildBattle | Creative minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- | Disenable |
+| SkyWars | SkyWars minigame like hypixel | ??? | ??? | [Poggit](https://poggit.pmmp.io/) | PocketMine-MP | Pizza3909G | --/--/-- | Disenable |
 
 </div>
 <hr>
