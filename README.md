@@ -40,4 +40,8 @@
 
 </div>
 <hr>
-
+<h4 align="center">
+  <details>
+  <summary>View more!</summary>
+  </details>
+</h4>
