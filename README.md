@@ -3,7 +3,7 @@
 <a><div align="center">
   <img src="https://lanyard.cnrad.dev/api/864830171635122198"></div>
 </a>
-<div alight="center">
+<div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/b79d8a73-dd49-4735-b3a3-5a15a05b02af.svg)](https://wakatime.com/@b79d8a73-dd49-4735-b3a3-5a15a05b02af)
 
