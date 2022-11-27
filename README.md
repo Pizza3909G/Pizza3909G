@@ -3,9 +3,11 @@
 <a><div align="center">
   <img src="https://lanyard.cnrad.dev/api/864830171635122198"></div>
 </a>
+<div alight="center">
 
-[![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
-
+[![wakatime](https://wakatime.com/badge/user/b79d8a73-dd49-4735-b3a3-5a15a05b02af.svg)](https://wakatime.com/@@b79d8a73-dd49-4735-b3a3-5a15a05b02af)
+  
+</div>
 <hr>
 <h2 align="center"><b> 📋 Programming Languages </b></h2>
 <div align="center">
