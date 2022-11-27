@@ -3,7 +3,9 @@
 <a><div align="center">
   <img src="https://lanyard.cnrad.dev/api/864830171635122198"></div>
 </a>
+
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
+
 <hr>
 <h2 align="center"><b> 📋 Programming Languages </b></h2>
 <div align="center">
