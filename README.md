@@ -5,8 +5,8 @@
 </a>
 <div alight="center">
 
-[![wakatime](https://wakatime.com/badge/user/b79d8a73-dd49-4735-b3a3-5a15a05b02af.svg)](https://wakatime.com/@@b79d8a73-dd49-4735-b3a3-5a15a05b02af)
-  
+[![wakatime](https://wakatime.com/badge/user/b79d8a73-dd49-4735-b3a3-5a15a05b02af.svg)](https://wakatime.com/@b79d8a73-dd49-4735-b3a3-5a15a05b02af)
+
 </div>
 <hr>
 <h2 align="center"><b> 📋 Programming Languages </b></h2>
