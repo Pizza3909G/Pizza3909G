@@ -1,6 +1,9 @@
 <h2 align="center"><b>Welcome to My Profile's :3</b></h2>
 <div align="center"><b>My name is pizza and this is my github profile</b><br><b>I'm 15-16 years old and I've been dev  for 4 years, see more about me below :3</b></div><br>
-<a><div align="center"><img src="https://lanyard.cnrad.dev/api/864830171635122198"></div></a>
+<a><div align="center">
+  <img src="https://lanyard.cnrad.dev/api/864830171635122198"></div>
+  [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
+</a>
 <hr>
 <h2 align="center"><b> 📋 Programming Languages </b></h2>
 <div align="center">
