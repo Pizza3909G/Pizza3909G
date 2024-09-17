@@ -16,7 +16,6 @@
 
 </div>
 <hr>
-<hr>
 <br clear="both">
 <div align="center">
   <img src="https://raw.githubusercontent.com/pizza3909g/pizza3909g/output/snake.svg" alt="Snake animation"/>
